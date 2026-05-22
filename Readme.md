@@ -56,25 +56,25 @@ Frontend UI Output
 
 ### Home UI
 
-![Home UI](screenshots/screenshot(185).png)
+![Home UI](screenshots/image1.png)
 
 ---
 
 ### Search Agent Output
 
-![Search Output](screenshots/screenshot(187)..png)
+![Search Output](screenshots/image2.png)
 
 ---
 
 ### Writer Report Output
 
-![Writer Output](screenshots/screenshot(188).png)
+![Writer Output](screenshots/image3.png)
 
 ---
 
 ### Critic Feedback Output
 
-![Critic Output](screenshots/screenshot(189)..png)
+![Critic Output](screenshots/image4.png)
 
 ---
 
