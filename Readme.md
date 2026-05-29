@@ -212,9 +212,9 @@ Artificial Intelligence in Healthcare
 
 ##  Author
 
-**Your Name**  
+**Suhani vyas**  
 B.Tech Computer Science Engineering  
-GitHub: https://github.com/YOUR_USERNAME
+GitHub:https://github.com/vyass4747-lab
 
 ---
 
